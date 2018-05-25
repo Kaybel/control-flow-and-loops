@@ -113,7 +113,7 @@ function square (num) {
 */ 
 //ES6
 // const square = (num) => num * num;
-
+/*
 const selection = (option) => {
 if (option === "cat") {
 	alert("miau");
@@ -123,3 +123,4 @@ if (option === "cat") {
 	alert ("cuack")
 }
 }
+*/
